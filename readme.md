@@ -12,4 +12,5 @@ This repository contains C++ codes,assignments that i have completed or will be 
 - Variables,Delimiters and Data types/
 - Interesting C++ terminology/
 - Operators/
+- Floating points/
 ```
