@@ -8,7 +8,7 @@ This repository contains C++ codes,assignments that i have completed or will be 
 
 * First you have to download a compiler ( mingw - > g++ recommended)
 * Add the path of the compiler into the environment variables path.WHY ? In simple words when you add the the path into environment variables then OS register that path into its list.OS knows where compiler files are now.At the time of compilation when you type the command OS searches for the folder then execute the compiler files. If you will not add then OS will not recognise it.
-* After doing all this open your terminal add type
+* After doing all this open your terminal add type:
 
   ```
   g++ --version
@@ -23,7 +23,7 @@ This repository contains C++ codes,assignments that i have completed or will be 
   ```
 
   Now open your C++ folder where you have files with the extension .cpp
-* RUN   COMMAND
+* Open the folder where you have your c++ files and then also open the same the same folder in the integrated terminal(which your code editor provides you) and type:
 
   ```
   - g++ filename.cpp -o filename 
