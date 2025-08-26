@@ -48,4 +48,5 @@ This repository contains C++ codes,assignments that i have completed or will be 
 ```
 - If-else,switch,ternary/
 - Loops in C++/
+- Jump Statements/
 ```
