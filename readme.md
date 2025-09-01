@@ -45,10 +45,12 @@ This repository contains C++ codes,assignments that i have completed or will be 
 
 ## PROGRAMMING CONSTRUCTS
 
+```
 - If-else,switch,ternary/
 - Loops in C++/
 - Jump Statements/
 - Functions/
+```
 
 ## ARRAYS AND POINTERS
 
